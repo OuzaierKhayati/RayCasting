@@ -13,14 +13,14 @@ body{
 h1 {
     margin-top: 15px;
     font-family: 'Lucida Sans';
-    font-size: 2rem;
+    font-size: 2vw;
     text-decoration: underline;
 
 }
 .container{
     margin-top: 25px;
     width: auto;
-    font-size: 1.3rem;
+    font-size: 1.35vw;
     display: flex;
     flex-direction: column;
     gap: 10px;
